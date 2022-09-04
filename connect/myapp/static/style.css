@@ -1,0 +1,10 @@
+.nav-selected{
+    color:cadetblue !important;
+}
+.nav-hover:hover{
+    color:cadetblue !important;
+}
+
+.nav-logo{
+    color: darkslateblue !important;
+}
